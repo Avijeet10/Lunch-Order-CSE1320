@@ -1,4 +1,4 @@
-#Name-Avijeet Adhikari 
+#name-Avijeet Adhikari 
 #ID- 1001657003
 SRC1 = lunchorder.c
 SRC2 = ListLib.c
